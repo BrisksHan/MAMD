@@ -1,0 +1,110 @@
+form,M_count,charge,mass,mode,type
+M-H2O-H,1,1,-19.01839,negative,S
+2M-3H,2,3,-3.021828,negative,S
+3M-3H,3,3,-3.021828,negative,S
+M-3H,1,3,-3.021828,negative,S
+2M-2H,2,2,-2.014552,negative,S
+3M-2H,3,2,-2.014552,negative,S
+M-2H,1,2,-2.014552,negative,S
+2M-H,2,1,-1.007276,negative,S
+3M-H,3,1,-1.007276,negative,S
+M-H,1,1,-1.007276,negative,S
+2M-2H+NH4,2,1,16.019271,negative,S
+3M-2H+NH4,3,1,16.019271,negative,S
+M-2H+NH4,1,1,16.019271,negative,S
+2M-2H+Na,2,1,20.974666,negative,S
+3M-2H+Na,3,1,20.974666,negative,S
+M-2H+Na,1,1,20.974666,negative,S
+M+Na-2H,1,1,20.974666,negative,S
+2M-H+Cl,2,2,33.962126,negative,S
+3M-H+Cl,3,2,33.962126,negative,S
+M-H+Cl,1,2,33.962126,negative,S
+2M+Cl,2,1,34.969402,negative,S
+3M+Cl,3,1,34.969402,negative,S
+M+Cl,1,1,34.969402,negative,S
+2M-2H+K,2,1,36.948606,negative,S
+3M-2H+K,3,1,36.948606,negative,S
+M-2H+K,1,1,36.948606,negative,S
+M+K-2H,1,1,36.948606,negative,S
+M-H+HCOOH,1,1,44.998194,negative,Formic Acid
+2M+HCOOH-H,2,1,44.998201,negative,Formic Acid
+2M+Hac-H,2,1,59.013851,negative,Acetic Acid
+M+Hac-H,1,1,59.013851,negative,Acetic Acid
+M-H+NaCOOH,1,1,66.980151,negative,Sodium Formate
+2M+2Cl,2,2,69.938804,negative,S
+3M+2Cl,3,2,69.938804,negative,S
+M+2Cl,1,2,69.938804,negative,S
+M+Br,1,1,78.918885,negative,S
+M+Cl+HCOOH,1,1,80.974872,negative,Formic Acid
+M+Cl+NaCOOH,1,1,102.956829,negative,Sodium Formate
+M-H+CF3COOH,1,1,112.985586,negative,TFA
+M+Cl+CF3COOH,1,1,148.962264,negative,TFA
+M+H-2H2O,1,1,-35.012676,positive,S
+M+H-H2O,1,1,-17.0027,positive,S
+2M+H,2,1,1.007276,positive,S
+3M+H,3,1,1.007276,positive,S
+M+H,1,1,1.007276,positive,S
+2M+2H,2,2,2.014552,positive,S
+3M+2H,3,2,2.014552,positive,S
+M+2H,1,2,2.014552,positive,S
+2M+3H,2,3,3.021828,positive,S
+3M+3H,3,3,3.021828,positive,S
+M+3H,1,3,3.021828,positive,S
+2M+NH4,2,1,18.033823,positive,S
+3M+NH4,3,1,18.033823,positive,S
+M+NH4,1,1,18.033823,positive,S
+2M+H+NH4,2,2,19.041099,positive,S
+3M+H+NH4,3,2,19.041099,positive,S
+M+H+NH4,1,2,19.041099,positive,S
+2M+Na,2,1,22.989218,positive,S
+3M+Na,3,1,22.989218,positive,S
+M+Na,1,1,22.989218,positive,S
+2M+H+Na,2,2,23.996494,positive,S
+3M+H+Na,3,2,23.996494,positive,S
+M+H+Na,1,2,23.996494,positive,S
+M+2H+Na,1,3,25.00377,positive,S
+M+CH3OH+H,1,1,33.033486,positive,Methanol
+2M+K,2,1,38.963158,positive,S
+3M+K,3,1,38.963158,positive,S
+M+K,1,1,38.963158,positive,S
+2M+H+K,2,2,39.970434,positive,S
+3M+H+K,3,2,39.970434,positive,S
+M+H+K,1,2,39.970434,positive,S
+2M+ACN+H,2,1,42.033826,positive,Acetonitrile
+M+ACN+H,1,1,42.033826,positive,Acetonitrile
+M+ACN+2H,1,2,43.041102,positive,Acetonitrile
+2M+2Na-H,2,1,44.97116,positive,S
+3M+2Na-H,3,1,44.97116,positive,S
+M+2Na-H,1,1,44.97116,positive,S
+2M+2Na,2,2,45.978436,positive,S
+3M+2Na,3,2,45.978436,positive,S
+M+2Na,1,2,45.978436,positive,S
+M+H+2Na,1,3,46.985712,positive,S
+M+H+HCOOH,1,1,47.012746,positive,Formic Acid
+2M+3H2O+2H,2,2,56.04448,positive,S
+M+IsoProp+H,1,1,61.06479,positive,Isopropanol
+2M+Na+K,2,2,61.952376,positive,S
+3M+Na+K,3,2,61.952376,positive,S
+M+Na+K,1,2,61.952376,positive,S
+2M+ACN+Na,2,1,64.015768,positive,Acetonitrile
+M+ACN+Na,1,1,64.015768,positive,Acetonitrile
+M+NH4+HCOOH,1,1,64.039293,positive,Formic Acid
+M+3Na,1,3,68.967654,positive,S
+M+Na+HCOOH,1,1,68.994688,positive,Formic Acid
+2M+2K-H,2,1,76.91904,positive,S
+3M+2K-H,3,1,76.91904,positive,S
+M+2K-H,1,1,76.91904,positive,S
+2M+2K,2,2,77.926316,positive,S
+3M+2K,3,2,77.926316,positive,S
+M+2K,1,2,77.926316,positive,S
+M+2K+H,1,1,78.933592,positive,S
+M+DMSO+H,1,1,79.021207,positive,DMSO
+M+2ACN+H,1,1,83.060376,positive,Acetonitrile
+M+IsoProp+Na+H,1,1,84.054008,positive,Isopropanol
+M+2ACN+2H,1,2,84.067652,positive,Acetonitrile
+M+K+HCOOH,1,1,84.968628,positive,Formic Acid
+M+H+CF3COOH,1,1,115.000138,positive,TFA
+M+3ACN+2H,1,2,125.094202,positive,Acetonitrile
+M+NH4+CF3COOH,1,1,132.026685,positive,TFA
+M+Na+CF3COOH,1,1,136.98208,positive,TFA
+M+K+CF3COOH,1,1,152.95602,positive,TFA
